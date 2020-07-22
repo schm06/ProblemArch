@@ -18,18 +18,7 @@ Print the letter X (uppercase) with a blank space before and after the equal sig
 Obs.: don't forget the endline after all.
 
 Samples Input
-
-10
-9
-
--10
-4
-
-15
--7
+10 9 | -10 4 | 15 -7
 
 Samples Output
-
-X = 19
-X = -6
-X = 8
+X = 19 | X = -6 | X = 8
